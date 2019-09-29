@@ -1,4 +1,4 @@
-#!/usr/bin/env python -u
+#!/usr/bin/env python
  
 """IMAP Incremental Backup Script"""
 __version__ = "1.4h"
